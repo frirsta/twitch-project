@@ -1,3 +1,31 @@
 *{
     background-color: aqua;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    height: 600px;
+}
+
+.card{}
+.card-header{}
+
+/* card about */
+
+#card-about{
+
+}
+
+/* card experience */
+#card-experience{
+    display: none;
+}
+
+/* card contact */
+
+#card-contact{
+    display: none;
 }
